@@ -56,10 +56,10 @@
     <table class="table table-bordered">
         <thead>
         <tr style="background-color: #ffe135">
-            <th style="color: azure">USRID</th>
-            <th style="color: azure">SUBJECT</th>
-            <th style="color: azure">FILENAME</th>
-            <th style="color: azure">SECKEY</th>
+            <th>USRID</th>
+            <th>SUBJECT</th>
+            <th>FILENAME</th>
+            <th>SECKEY</th>
         </tr>
         </thead>
         <tbody>
